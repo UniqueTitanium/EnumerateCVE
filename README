@@ -1,0 +1,4 @@
+This project is to assist with enumerating CVEs that are included with RHEL RPMs. 
+
+The packages generally have CVEs e.x. CVE-2026-XXXXX and this makes it much easier to obtain all of the CVE numbers to complete package analysis and determine what vulnerabilitites were addressed with a new release. 
+The updateinfo developer notes typically do not have information about the vulnerability itself, the markdown output makes it easier to document and index the information about each CVE.
